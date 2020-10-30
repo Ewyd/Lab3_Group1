@@ -19,6 +19,6 @@ The Python codes used to allow the <b>Usage</b> parts are:
   * [fonction_client.py](https://github.com/Ewyd/Lab3_Group1/blob/main/Fonction_Client.py) contains the necessary function to send a message that will be decrypted by the server.
   * [fonction_serveur.py](https://github.com/Ewyd/Lab3_Group1/blob/main/Fonction_Serveur.py) contains the code to execute the different calculation as well as the save of the log file.
 
-## Group1
+## Contributors
 BOUCHET Isis, BRENNAN Damien, GIRARD Nicolas, PERRIN Marc
 
