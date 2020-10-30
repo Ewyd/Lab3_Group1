@@ -18,6 +18,10 @@ You have now access to a Jupyter console. Follow the instructions and see the re
 The Python codes used to allow the <b>Usage</b> parts are:
   * [fonction_client.py](https://github.com/Ewyd/Lab3_Group1/blob/main/Fonction_Client.py) contains the necessary function to send a message that will be decrypted by the server.
   * [fonction_serveur.py](https://github.com/Ewyd/Lab3_Group1/blob/main/Fonction_Serveur.py) contains the code to execute the different calculation as well as the save of the log file.
+  
+## Demonstration
+
+A demonstration of the process is available [here](https://drive.google.com/file/d/1Awqo--g5095XmHAubJPlVRYdG5k5I187/view?usp=sharing), it can also be taken as a tutorial.
 
 ## Contributors
 BOUCHET Isis, BRENNAN Damien, GIRARD Nicolas, PERRIN Marc
